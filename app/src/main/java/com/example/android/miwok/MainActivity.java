@@ -15,6 +15,7 @@
  */
 package com.example.android.miwok;
 
+import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -92,6 +93,21 @@ public class MainActivity extends AppCompatActivity {
 
                 // Start the new activity
                 startActivity(phrasesIntent);
+            }
+        });
+
+        // Find the View that shows the gordon category
+        TextView gordon = (TextView) findViewById(R.id.gordon);
+
+        gordon.setOnClickListener(new OnClickListener() {
+            // The code in this method will be executed when the gordon category is clicked on.
+            @Override
+            public void onClick(View view) {
+                // Create a new intent to open the {@link GordonActivity}
+                Intent gordonIntent = new Intent(MainActivity.this, GordonActivity.class);
+
+                // Start the new activity
+                startActivity(gordonIntent);
             }
         });
     }
