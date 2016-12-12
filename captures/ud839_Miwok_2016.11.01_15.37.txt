@@ -1,0 +1,143 @@
+Applications Memory Usage (kB):
+Uptime: 4924425 Realtime: 4924418
+
+Total PSS by process:
+    49379 kB: system (pid 468)
+    45504 kB: com.android.systemui (pid 669)
+    40821 kB: com.google.android.gms (pid 1586)
+    38489 kB: com.google.android.apps.docs.editors.slides (pid 18930)
+    36169 kB: com.google.android.gms.persistent (pid 1187)
+    32019 kB: com.google.android.apps.docs.editors.sheets (pid 18835)
+    29827 kB: com.google.android.apps.docs.editors.docs (pid 18743)
+    16450 kB: com.google.android.talk (pid 18029)
+    15066 kB: com.android.launcher (pid 1035 / activities)
+    14460 kB: com.google.android.gm (pid 18460)
+    12037 kB: com.android.vending (pid 11559)
+    11078 kB: com.example.android.miwok (pid 11467 / activities)
+    10342 kB: com.google.android.inputmethod.latin (pid 872)
+     9331 kB: com.google.android.calendar (pid 18607)
+     6807 kB: com.android.phone (pid 1016)
+     6580 kB: com.google.android.inputmethod.pinyin (pid 18547)
+     6312 kB: com.google.android.inputmethod.korean (pid 19022)
+     6216 kB: com.google.android.apps.inputmethod.hindi (pid 18680)
+     5470 kB: com.google.android.googlequicksearchbox (pid 19071)
+     5038 kB: com.google.android.googlequicksearchbox:interactor (pid 800)
+     4997 kB: android.process.media (pid 691)
+     4820 kB: com.google.process.gapps (pid 1280)
+     4784 kB: com.google.android.googlequicksearchbox:search (pid 24353)
+     4643 kB: surfaceflinger (pid 119)
+     4610 kB: com.android.nfc (pid 980)
+     3704 kB: mediaserver (pid 125)
+     3528 kB: com.google.android.marvin.talkback (pid 18584)
+     3214 kB: com.android.providers.calendar (pid 18641)
+     2112 kB: zygote (pid 131)
+     1959 kB: com.nuance.xt9.input (pid 998)
+     1357 kB: logd (pid 114)
+     1311 kB: drmserver (pid 124)
+      997 kB: wpa_supplicant (pid 651)
+      986 kB: glgps (pid 133)
+      691 kB: netd (pid 122)
+      626 kB: keystore (pid 128)
+      622 kB: vold (pid 118)
+      374 kB: sdcard (pid 132)
+      333 kB: /init (pid 1)
+      316 kB: adbd (pid 134)
+      300 kB: ueventd (pid 99)
+      287 kB: dumpsys (pid 2745)
+      282 kB: lmkd (pid 116)
+      269 kB: tf_daemon (pid 130)
+      235 kB: debuggerd (pid 123)
+      233 kB: logcat (pid 2524)
+      223 kB: installd (pid 126)
+      217 kB: servicemanager (pid 117)
+      197 kB: dhcpcd (pid 1425)
+      184 kB: healthd (pid 115)
+
+Total PSS by OOM adjustment:
+    20499 kB: Native
+                4643 kB: surfaceflinger (pid 119)
+                3704 kB: mediaserver (pid 125)
+                2112 kB: zygote (pid 131)
+                1357 kB: logd (pid 114)
+                1311 kB: drmserver (pid 124)
+                 997 kB: wpa_supplicant (pid 651)
+                 986 kB: glgps (pid 133)
+                 691 kB: netd (pid 122)
+                 626 kB: keystore (pid 128)
+                 622 kB: vold (pid 118)
+                 374 kB: sdcard (pid 132)
+                 333 kB: /init (pid 1)
+                 316 kB: adbd (pid 134)
+                 300 kB: ueventd (pid 99)
+                 287 kB: dumpsys (pid 2745)
+                 282 kB: lmkd (pid 116)
+                 269 kB: tf_daemon (pid 130)
+                 235 kB: debuggerd (pid 123)
+                 233 kB: logcat (pid 2524)
+                 223 kB: installd (pid 126)
+                 217 kB: servicemanager (pid 117)
+                 197 kB: dhcpcd (pid 1425)
+                 184 kB: healthd (pid 115)
+    49379 kB: System
+               49379 kB: system (pid 468)
+    58880 kB: Persistent
+               45504 kB: com.android.systemui (pid 669)
+                6807 kB: com.android.phone (pid 1016)
+                4610 kB: com.android.nfc (pid 980)
+                1959 kB: com.nuance.xt9.input (pid 998)
+    11078 kB: Foreground
+               11078 kB: com.example.android.miwok (pid 11467 / activities)
+    41207 kB: Visible
+               36169 kB: com.google.android.gms.persistent (pid 1187)
+                5038 kB: com.google.android.googlequicksearchbox:interactor (pid 800)
+    10342 kB: Perceptible
+               10342 kB: com.google.android.inputmethod.latin (pid 872)
+    15066 kB: Home
+               15066 kB: com.android.launcher (pid 1035 / activities)
+     4997 kB: B Services
+                4997 kB: android.process.media (pid 691)
+   234358 kB: Cached
+               40821 kB: com.google.android.gms (pid 1586)
+               38489 kB: com.google.android.apps.docs.editors.slides (pid 18930)
+               32019 kB: com.google.android.apps.docs.editors.sheets (pid 18835)
+               29827 kB: com.google.android.apps.docs.editors.docs (pid 18743)
+               16450 kB: com.google.android.talk (pid 18029)
+               14460 kB: com.google.android.gm (pid 18460)
+               12037 kB: com.android.vending (pid 11559)
+                9331 kB: com.google.android.calendar (pid 18607)
+                6580 kB: com.google.android.inputmethod.pinyin (pid 18547)
+                6312 kB: com.google.android.inputmethod.korean (pid 19022)
+                6216 kB: com.google.android.apps.inputmethod.hindi (pid 18680)
+                5470 kB: com.google.android.googlequicksearchbox (pid 19071)
+                4820 kB: com.google.process.gapps (pid 1280)
+                4784 kB: com.google.android.googlequicksearchbox:search (pid 24353)
+                3528 kB: com.google.android.marvin.talkback (pid 18584)
+                3214 kB: com.android.providers.calendar (pid 18641)
+
+Total PSS by category:
+   159297 kB: Dalvik
+   106765 kB: .dex mmap
+    62445 kB: Unknown
+    29959 kB: .so mmap
+    23737 kB: .apk mmap
+    23688 kB: .art mmap
+    19072 kB: .oat mmap
+    10960 kB: Dalvik Other
+     5452 kB: Other mmap
+     2408 kB: Native
+      992 kB: Stack
+      863 kB: Other dev
+      116 kB: Ashmem
+       28 kB: .ttf mmap
+       16 kB: Cursor
+        8 kB: .jar mmap
+        0 kB: Gfx dev
+        0 kB: EGL mtrack
+        0 kB: GL mtrack
+        0 kB: Other mtrack
+
+Total RAM: 999116 kB (status normal)
+ Free RAM: 678330 kB (234358 cached pss + 416200 cached kernel + 27772 free)
+ Used RAM: 318408 kB (211448 used pss + 106960 kernel)
+ Lost RAM: 2378 kB
+   Tuning: 80 (large 384), oom 184320 kB, restore limit 61440 kB (high-end-gfx)
